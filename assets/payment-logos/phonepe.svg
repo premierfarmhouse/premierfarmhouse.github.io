@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 44" role="img" aria-label="PhonePe logo">
+  <rect width="170" height="44" rx="12" fill="none"/>
+  <g transform="translate(8 5)">
+    <rect x="0" y="0" width="34" height="34" rx="12" fill="#5f259f"/>
+    <path d="M18 7.5c3.5 0 6.4 1.9 7.9 4.7l-4.6 1.8c-.7-1.2-1.9-2-3.3-2-2.3 0-4.2 1.9-4.2 4.2s1.9 4.2 4.2 4.2c1.4 0 2.6-.7 3.3-1.8l4.6 1.8c-1.5 2.8-4.4 4.6-7.9 4.6-4.9 0-8.9-4-8.9-8.9s4-8.6 8.9-8.6z" fill="#ffffff"/>
+    <rect x="12.2" y="14.2" width="8.8" height="3.3" rx="1.65" fill="#ffffff"/>
+  </g>
+  <text x="50" y="28" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#5f259f">PhonePe</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Google Pay icon">
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#ffffff"/>
+  <path d="M30 20a12 12 0 1 0 0 24 11.7 11.7 0 0 0 8.3-3.3l-3.4-3.2A6.7 6.7 0 1 1 30 25.3a6.5 6.5 0 0 1 4.6 1.8l3.5-3.4A11.4 11.4 0 0 0 30 20Z" fill="#4285F4"/>
+  <path d="M20.2 31.8h10.3v4H20.2z" fill="#34A853"/>
+  <path d="M41.3 21h4.1l5.2 8-5.2 8h-4.1l5-8z" fill="#FBBC05"/>
+  <path d="M46.6 21h4.2l5.2 8-5.2 8h-4.2l5.2-8z" fill="#EA4335"/>
+</svg>
